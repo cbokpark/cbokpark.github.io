@@ -56,5 +56,6 @@ ACM SIGKDD Workshop on Interactive Data Exploration and Analytics (KDD-IDEA), 20
 Honors and awards
 ======
 **Gold Prize (1st Place) KU Graduate Project Competition, 2017, Korea University.
+
 **Republic of Korea Presidential Science Scholarship, 2013-2017, Government of the Republic of Korea <br>
 Full-tuition scholarship with stipend for undergraduate studies in CS fields.One of 135 awardees in Korea.
