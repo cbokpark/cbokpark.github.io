@@ -13,10 +13,10 @@ I am a research scientist at Papago, NAVER Corp. My research interest has focuse
 
 Publications
 ======
-**Meta-Learning for Low-Resource Unsupervised Neural Machine Translation** <br> **Cheombok Park\***, Yunwon Tae\*, TaeHee Kim, Soyoung Yang, Mohammad Azam Khan, Lucy Park and Jaegul Choo <br>
+**Meta-Learning for Low-Resource Unsupervised Neural Machine Translation** <br> **Cheombok Park\***, Yunwon Tae\*, TaeHee Kim, Soyoung Yang, Mohammad Azam Khan, Lucy Park and Jaegul Choo (* indicates equal contribution) <br>
  Meeting of the Association for Computational Linguistics (ACL), Long Paper, 2021 <br> [Paper]()
 
-**VATUN: Visual Analytics for Testing and Understanding Convolutional Neural Networks** <br> **Cheonbok Park\***, Soyoung Yang\*, Inyoup Na\*, Sunghyo Chung, Sungbok Shin, Bum Chul Kwon, Deokgun Park, and Jaegul Choo <br>
+**VATUN: Visual Analytics for Testing and Understanding Convolutional Neural Networks** <br> **Cheonbok Park\***, Soyoung Yang\*, Inyoup Na\*, Sunghyo Chung, Sungbok Shin, Bum Chul Kwon, Deokgun Park, and Jaegul Choo (* indicates equal contribution)<br>
 EG/VGTC Conference on Visualization (EuroVis), Short Paper, 2021 <br> [Paper]()
 
 **Empirical Experiment on Deep Learning Models for Predicting Traffic Data** <br> Hyunwook Lee, **Cheonbok Park**, Seungmin Jin, Hyeshin Chu, Jaegul Choo, and Sungahn Ko
@@ -38,7 +38,7 @@ Minsuk Choi, **Cheonbok Park**, Soyoung Yang, Yonggyu Kim, Jaegul Choo, and Sung
 ACM CHI Conference on Human Factors in Computing Systems (CHI), 2019, Glasgow, UK. [Paper]()
 
 **A Comparison of the Effects of Data Imputation Methods on Model Performance** <br>
-Wooyoung Kim\*, Wonwoong Cho\*, Jangho Choi, Jiyong Kim, **Cheonbok Park**, Jaegul Choo <br>
+Wooyoung Kim\*, Wonwoong Cho\*, Jangho Choi, Jiyong Kim, **Cheonbok Park**, Jaegul Choo (* indicates equal contribution)<br>
 IEEE International Conference on Advanced Communications Technology (ICACT), 2019, Pyeongchang, KR. [Paper]()
 
 **Real-time UAV sound detection and analysis system** <br>
@@ -51,7 +51,7 @@ In NeurIPS Workshop on Future of Interactive Learning Machines(NIPS-FILM), 2016 
 
 **ReVACNN: Real-Time Visual Analytics for Convolutional Neural Network** <br>
 Sunghyo Chung, Sangho Suh, **Cheonbok Park**, Kyeongpil Kang, Jaegul Choo, and Bum Chul Kwon <br>
-ACM SIGKDD Workshop on Interactive Data Exploration and Analytics (KDD-IDEA), 2016, San Francisco, CA. [Papper
+ACM SIGKDD Workshop on Interactive Data Exploration and Analytics (KDD-IDEA), 2016, San Francisco, CA. [Papper]()
 
 Honors and awards
 ======
