@@ -30,7 +30,7 @@ ACM International Conference on Information and Knowledge Management (CIKM), 202
 
 **SANVis: Visual Analytics for Understanding Self-Attention Networks** <br>
 **Cheonbok Park**, Inyoup Na, Yongjang Jo, Sungbok Shin, Jaehyo Yoo, Bum Chul Kwon, Jian Zhao, Hyungjong Noh, Yeonsoo Lee, and Jaegul Choo <br>
-IEEE VIS, Short Paper, 2019, Vancouver, Canada. [Paper]()
+IEEE VIS, Short Paper, 2019, Vancouver, Canada. <br> [Paper]()
 
 
 **AILA: Attentive Interactive Labeling Assistant for Document Classification through Attention-based Deep Neural Networks** <br>
