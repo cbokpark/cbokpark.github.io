@@ -35,23 +35,23 @@ IEEE VIS, Short Paper, 2019, Vancouver, Canada. [Paper]()
 
 **AILA: Attentive Interactive Labeling Assistant for Document Classification through Attention-based Deep Neural Networks** <br>
 Minsuk Choi, **Cheonbok Park**, Soyoung Yang, Yonggyu Kim, Jaegul Choo, and Sungsoo (Ray) Hong <br>
-ACM CHI Conference on Human Factors in Computing Systems (CHI), 2019, Glasgow, UK. [Paper]()
+ACM CHI Conference on Human Factors in Computing Systems (CHI), 2019, Glasgow, UK. <br> [Paper]()
 
 **A Comparison of the Effects of Data Imputation Methods on Model Performance** <br>
 Wooyoung Kim\*, Wonwoong Cho\*, Jangho Choi, Jiyong Kim, **Cheonbok Park**, Jaegul Choo (* indicates equal contribution)<br>
-IEEE International Conference on Advanced Communications Technology (ICACT), 2019, Pyeongchang, KR. [Paper]()
+IEEE International Conference on Advanced Communications Technology (ICACT), 2019, Pyeongchang, KR. <br> [Paper]()
 
 **Real-time UAV sound detection and analysis system** <br>
 Juhyun Kim, **Cheonbok Park**, Jinwoo Ahn, Youlim Ko, Junghyun Park, John C. Gallaghe <br>
-IEEE Sensors Applications Symposium(SAS), 2017, UK. [Paper]()
+IEEE Sensors Applications Symposium(SAS), 2017, UK. <br> [Paper]()
 
 **ReVACNN: Steering Real-Time Visual Analytics for Convolutional Neural Network** <br>
 Sunghyo Chung, **Cheonbok Park**, Sangho Suh, Kyeongpil Kang, Jaegul Choo, and Bum Chul Kwon <br>
-In NeurIPS Workshop on Future of Interactive Learning Machines(NIPS-FILM), 2016 <br>
+In NeurIPS Workshop on Future of Interactive Learning Machines(NIPS-FILM), 2016. <br> [Papper]()
 
 **ReVACNN: Real-Time Visual Analytics for Convolutional Neural Network** <br>
 Sunghyo Chung, Sangho Suh, **Cheonbok Park**, Kyeongpil Kang, Jaegul Choo, and Bum Chul Kwon <br>
-ACM SIGKDD Workshop on Interactive Data Exploration and Analytics (KDD-IDEA), 2016, San Francisco, CA. [Papper]()
+ACM SIGKDD Workshop on Interactive Data Exploration and Analytics (KDD-IDEA), 2016, San Francisco, CA. <br> [Papper]()
 
 Honors and awards
 ======
