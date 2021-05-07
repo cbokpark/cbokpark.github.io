@@ -13,7 +13,7 @@ I am a research scientist at Papago, NAVER Corp. My research interest has focuse
 
 Publications
 ======
-**Meta-Learning for Low-Resource Unsupervised Neural Machine Translation** <br> **Cheombok Park\***, Yunwon Tae\*, TaeHee Kim, Soyoung Yang, Mohammad Azam Khan, Lucy Park and Jaegul Choob <br>
+**Meta-Learning for Low-Resource Unsupervised Neural Machine Translation** <br> **Cheombok Park\***, Yunwon Tae\*, TaeHee Kim, Soyoung Yang, Mohammad Azam Khan, Lucy Park and Jaegul Choo <br>
  Meeting of the Association for Computational Linguistics (ACL), Long Paper, 2021 <br> [Paper]()
 
 **VATUN: Visual Analytics for Testing and Understanding Convolutional Neural Networks** <br> **Cheonbok Park\***, Soyoung Yang\*, Inyoup Na\*, Sunghyo Chung, Sungbok Shin, Bum Chul Kwon, Deokgun Park, and Jaegul Choo <br>
@@ -23,7 +23,7 @@ EG/VGTC Conference on Visualization (EuroVis), Short Paper, 2021 <br> [Paper]()
 IEEE International Conference on Data Engineering (ICDE), Short Paper, 2021. <br> [Paper]()
 
 
-**ST-GRAT: A Novel Spatio-temporal Graph Attention Network for Accurately Forecasting Dynamically Changing Road Speed** </br>
+**ST-GRAT: A Novel Spatio-temporal Graph Attention Network for Accurately Forecasting Dynamically Changing Road Speed** <br>
 **Cheonbok Park**, Chunggi Lee, Hyojin Bahng, Yunwon Tae, Seungmin Jin, Kihwan Kim, Sungahn Ko, and Jaegul Choo
 ACM International Conference on Information and Knowledge Management (CIKM), 2020 <br> [Paper]()
 
