@@ -13,6 +13,18 @@ I am a research scientist at Papago, NAVER Corp. My research interest has focuse
 
 Publications
 ======
+**DaLC: Domain Adaptation Learning Curve Prediction for Neural Machine Translation** <br>
+**Cheonbok Park**, Hantae Kim, Ioan Calapodescu, Hyunchang Cho,and Vassilina Nikoulina <br>
+Meeting of the Association for Computational Linguistics (ACL), Findings Long Paper, 2022
+
+**Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift**<br>
+Taesung Kim,* Jinhee Kim,* Yunwon Tae, **Cheonbok Park**, Jang-Ho Choi, and Jaegul Choo (*: equal contributions) <br>
+International Conference on Learning Representations (ICLR), 2022.
+
+**PASTA : Parallel Spatio-Temporal Attention with Spatial Auto-Correlation Gating for Fine-Grained Crowd Flows Prediction**<br>
+Chung Park, Junui Hong, **Cheonbok Park**, Taesan Kim, Minsung Choi, and Jaegul Choo <br> 
+Pacific-Asia Conference on Knowledge Discovery and Data Mining (PAKDD), 2022.
+
 **Meta-Learning for Low-Resource Unsupervised Neural Machine Translation** <br> **Cheombok Park\***, Yunwon Tae\*, TaeHee Kim, Soyoung Yang, Mohammad Azam Khan, Lucy Park and Jaegul Choo (* indicates equal contribution) <br>
  Meeting of the Association for Computational Linguistics (ACL), Long Paper, 2021 <br> [Paper](https://www.dropbox.com/s/q9o5ohmga8bp0dz/ACL2021_MetaGUMT.pdf?dl=0)
 
