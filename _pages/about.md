@@ -13,8 +13,24 @@ I am a research scientist at Papago, NAVER Corp. My research interest has focuse
 
 Publications
 ======
+
+
+**Specializing Multi-domain NMT via Penalizing Low Mutual Information** <br>
+Jiyoung Lee, Hantae Kim, Hyunchang Cho, Edward Cho, and  **Cheonbok Park** <br>
+Empirical Methods in Natural Language Processing (EMNLP), Short Paper, 2022
+
+
+**Residual Correction in Real-Time Traffic Forecasting**<br>
+Daejin Kim,* Youngin Cho,* Dongmin Kim, **Cheonbok Park**, and Jaegul Choo (*: equal contributions) <br>
+ACM International Conference on Information and Knowledge Management (CIKM), 2022.
+
+
+**A Visual Analytics System for Improving Traffic Forecasting Models**<br>
+Seungmin Jin, Hyunwook Lee, **Cheonbok Park**, Hyeshin Chu, Yunwon Tae, Jaegul Choo , and Sungahn Ko <br>
+IEEE Trans. on Visualization and Computer Graphics (TVCG), 2023 (Proc. IEEE VIS'22)
+
 **DaLC: Domain Adaptation Learning Curve Prediction for Neural Machine Translation** <br>
-**Cheonbok Park**, Hantae Kim, Ioan Calapodescu, Hyunchang Cho,and Vassilina Nikoulina <br>
+**Cheonbok Park**, Hantae Kim, Ioan Calapodescu, Hyunchang Cho, and Vassilina Nikoulina <br>
 Meeting of the Association for Computational Linguistics (ACL), Findings Long Paper, 2022
 
 **Reversible Instance Normalization for Accurate Time-Series Forecasting against Distribution Shift**<br>
