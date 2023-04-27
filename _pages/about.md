@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a research scientist at Papago, NAVER Corp. My research interest has focused on machine learning for natural language processing and the spatio-temporal modeling. I am also interested in visualizing machine learning models and Human-in-the-loop Machine learning.  I received B.S and M.S in Computer Science at Korea University. During M.S degree, I was advised by professor [Jaegul Choo](https://sites.google.com/site/jaegulchoo/).
+I am a research scientist at Papago, NAVER Corp. My research interest has focused on machine learning for natural language processing and the spatio-temporal modeling. I am also interested in visualizing machine learning models and Human-in-the-loop Machine learning.  I received B.S and M.S in Computer Science at Korea University. During M.S degree, I was advised by professor [Jaegul Choo](https://sites.google.com/site/jaegulchoo/). [CV](https://www.dropbox.com/s/3qtsl75zwq6tjhl/%EB%B0%95%EC%B2%9C%EB%B3%B5_CV.pdf?dl=0)
 
 Publications
 ======
@@ -53,29 +53,29 @@ IEEE International Conference on Data Engineering (ICDE), Short Paper, 2021. <br
 
 **ST-GRAT: A Novel Spatio-temporal Graph Attention Network for Accurately Forecasting Dynamically Changing Road Speed** <br>
 **Cheonbok Park**, Chunggi Lee, Hyojin Bahng, Yunwon Tae, Seungmin Jin, Kihwan Kim, Sungahn Ko, and Jaegul Choo
-ACM International Conference on Information and Knowledge Management (CIKM), 2020 <br> [Paper]()
+ACM International Conference on Information and Knowledge Management (CIKM), 2020 <br>
 
 
 **SANVis: Visual Analytics for Understanding Self-Attention Networks** <br>
 **Cheonbok Park**, Inyoup Na, Yongjang Jo, Sungbok Shin, Jaehyo Yoo, Bum Chul Kwon, Jian Zhao, Hyungjong Noh, Yeonsoo Lee, and Jaegul Choo <br>
-IEEE VIS, Short Paper, 2019, Vancouver, Canada. <br> [Paper]()
+IEEE VIS, Short Paper, 2019, Vancouver, Canada. <br> 
 
 
 **AILA: Attentive Interactive Labeling Assistant for Document Classification through Attention-based Deep Neural Networks** <br>
 Minsuk Choi, **Cheonbok Park**, Soyoung Yang, Yonggyu Kim, Jaegul Choo, and Sungsoo (Ray) Hong <br>
-ACM CHI Conference on Human Factors in Computing Systems (CHI), 2019, Glasgow, UK. <br> [Paper]()
+ACM CHI Conference on Human Factors in Computing Systems (CHI), 2019, Glasgow, UK. <br> 
 
 **A Comparison of the Effects of Data Imputation Methods on Model Performance** <br>
 Wooyoung Kim\*, Wonwoong Cho\*, Jangho Choi, Jiyong Kim, **Cheonbok Park**, Jaegul Choo (* indicates equal contribution)<br>
-IEEE International Conference on Advanced Communications Technology (ICACT), 2019, Pyeongchang, KR. <br> [Paper]()
+IEEE International Conference on Advanced Communications Technology (ICACT), 2019, Pyeongchang, KR. <br> 
 
 **Real-time UAV sound detection and analysis system** <br>
 Juhyun Kim, **Cheonbok Park**, Jinwoo Ahn, Youlim Ko, Junghyun Park, John C. Gallaghe <br>
-IEEE Sensors Applications Symposium(SAS), 2017, UK. <br> [Paper]()
+IEEE Sensors Applications Symposium(SAS), 2017, UK. <br> 
 
 **ReVACNN: Steering Real-Time Visual Analytics for Convolutional Neural Network** <br>
 Sunghyo Chung, **Cheonbok Park**, Sangho Suh, Kyeongpil Kang, Jaegul Choo, and Bum Chul Kwon <br>
-In NeurIPS Workshop on Future of Interactive Learning Machines(NIPS-FILM), 2016. <br> [Papper]()
+In NeurIPS Workshop on Future of Interactive Learning Machines(NIPS-FILM), 2016. <br> 
 
 **ReVACNN: Real-Time Visual Analytics for Convolutional Neural Network** <br>
 Sunghyo Chung, Sangho Suh, **Cheonbok Park**, Kyeongpil Kang, Jaegul Choo, and Bum Chul Kwon <br>
