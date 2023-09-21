@@ -14,6 +14,15 @@ I am a research scientist at Papago, NAVER Corp. My research interest has focuse
 Publications
 ======
 
+**Towards Accurate Translation via Semantically Appropriate Application of Lexical Constraints** <br>
+Yujin Baek,* Koanho Lee,* Dayeon Ki, **Cheonbok Park**, Hyoung-Gyu Lee, and Jaegul Choo (*: equal contributions) <br>
+Annual Meeting of the Association for Computational Linguistics (ACL), Findings of ACL, 2023. 
+
+
+**PePe: Personalized Post-editing Model Utilizing User-generated Post-edits** <br>
+Jihyeon Lee,* TaeHee Kim,* Yunwon Tae,* **Cheonbok Park**, and Jaegul Choo (*: equal contributions) <br>
+Conference of the European Chapter of the Association for Computational Linguistics (EACL), Findings of EACL, 2023. 
+
 
 **Specializing Multi-domain NMT via Penalizing Low Mutual Information** <br>
 Jiyoung Lee, Hantae Kim, Hyunchang Cho, Edward Cho, and  **Cheonbok Park** <br>
