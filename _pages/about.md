@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am a research scientist at Papago, NAVER Corp. My research interest has focused on machine learning for natural language processing and the spatio-temporal modeling. I am also interested in visualizing machine learning models and Human-in-the-loop Machine learning.  I received B.S and M.S in Computer Science at Korea University. During M.S degree, I was advised by professor [Jaegul Choo](https://sites.google.com/site/jaegulchoo/). [CV](https://www.dropbox.com/s/3qtsl75zwq6tjhl/%EB%B0%95%EC%B2%9C%EB%B3%B5_CV.pdf?dl=0)
+I am a research scientist at Foundation Research in Hyperscale AI, NAVER Cloud. My research interest has focused on machine learning for natural language processing and large language models. I am also interested in machine translation and Human-in-the-loop Machine learning.  I received B.S and M.S in Computer Science at Korea University. During M.S degree, I was advised by professor [Jaegul Choo](https://sites.google.com/site/jaegulchoo/). [CV](https://www.dropbox.com/s/3qtsl75zwq6tjhl/%EB%B0%95%EC%B2%9C%EB%B3%B5_CV.pdf?dl=0)
 
 Publications
 ======
