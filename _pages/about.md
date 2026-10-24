@@ -73,7 +73,7 @@ I am a research scientist at Foundation Research in Hyperscale AI, NAVER Cloud. 
     <article class="profile-entry">
       <div class="profile-entry__header">
         <h3>B.S. in Computer Science</h3>
-        <p class="profile-entry__date">2013–2017</p>
+        <p class="profile-entry__date">2013–2018</p>
       </div>
       <p class="profile-entry__role">Korea University</p>
     </article>
